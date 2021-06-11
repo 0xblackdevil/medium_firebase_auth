@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1053560754183",
+    "project_id": "flutterfire-aedef",
+    "storage_bucket": "flutterfire-aedef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1053560754183:android:bc661cabfc8dbabc735aa2",
+        "android_client_info": {
+          "package_name": "dev.blackdevil.firebase_auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1053560754183-es6jv5m9uom90a7liuna6dg1dip60qdi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcAbwHH6_Lu9V3RHtObkMWL1eWu9uWFvI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1053560754183-es6jv5m9uom90a7liuna6dg1dip60qdi.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1053560754183-o998f4pp094m1ak0kboavbt44duu3i84.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "demo.demi.demo"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
